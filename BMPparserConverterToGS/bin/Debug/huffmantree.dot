@@ -1,0 +1,20 @@
+digraph Huffman { 
+ 1[shape=box]; 
+8[shape=box]; 
+9[shape=box]; 
+1 -> 9 [label = 0]; 
+8 -> 9 [label = 1]; 
+19[shape=box]; 
+28[shape=box]; 
+9 -> 28 [label = 0]; 
+19 -> 28 [label = 1]; 
+29[shape=box]; 
+57[shape=box]; 
+28 -> 57 [label = 0]; 
+29 -> 57 [label = 1]; 
+71[shape=box]; 
+128[shape=box]; 
+57 -> 128 [label = 0]; 
+71 -> 128 [label = 1]; 
+{rank = same;1 8 19 29 71 }
+}

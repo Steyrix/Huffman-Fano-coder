@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\bin\Debug\BMPparserConverterToGS.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\bin\Debug\BMPparserConverterToGS.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\bin\Debug\BMPparserConverterToGS.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\Interop.Office.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BMPparserConverterToGS\BMPparserConverterToGS\obj\Debug\BMPparserConverterToGS.csproj.ResolveComReference.cache
